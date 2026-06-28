@@ -8,10 +8,8 @@ public:
         if(arr.size()==1) return 1;
 
         for(int i = 1;i<arr.size();i++){
-            int num;
             if(abs(arr[i]-arr[i-1])>1){
-                num = abs(arr[i]-arr[i-1]);
-                arr[i] = abs(arr[i]-num) +1;
+                arr[i] = arr[i-1]+1;
             }
             greatest = max(greatest,arr[i]);
         }
