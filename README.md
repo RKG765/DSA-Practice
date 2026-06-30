@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [1952-three-divisors](https://github.com/RKG765/DSA-Practice/tree/master/1952-three-divisors) |
 | [3700-number-of-zigzag-arrays-ii](https://github.com/RKG765/DSA-Practice/tree/master/3700-number-of-zigzag-arrays-ii) |
 ## Array
 |  |
@@ -49,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Enumeration
 |  |
 | ------- |
+| [1952-three-divisors](https://github.com/RKG765/DSA-Practice/tree/master/1952-three-divisors) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/RKG765/DSA-Practice/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 ## Greedy
 |  |
@@ -67,4 +69,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/RKG765/DSA-Practice/tree/master/1358-number-of-substrings-containing-all-three-characters) |
+## Number Theory
+|  |
+| ------- |
+| [1952-three-divisors](https://github.com/RKG765/DSA-Practice/tree/master/1952-three-divisors) |
 <!---LeetCode Topics End-->
