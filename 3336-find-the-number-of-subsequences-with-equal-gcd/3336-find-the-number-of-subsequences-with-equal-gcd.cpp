@@ -4,7 +4,8 @@ public:
 
     vector<vector<vector<int>>>mem;
     int solve(vector<int>&nums,int i,int first,int second){
-        if(i==nums.size()){
+        int n = nums.size();
+        if(i==n){
             if(first != 0 && second!=0 && first==second)
                 return 1;
             else return 0;
@@ -20,10 +21,11 @@ public:
     }
     int subsequencePairCount(vector<int>& nums) {
         int maxEle = nums[0];
-        for(int i=1;i<nums.size();i++){
+        int n = nums.size();
+        for(int i=1;i<n;i++){
             maxEle = max(maxEle,nums[i]);
         }
-        mem.assign(nums.size(),vector<vector<int>>(maxEle+1,vector<int>(maxEle+1,-1)));
+        mem.assign(n,vector<vector<int>>(maxEle+1,vector<int>(maxEle+1,-1)));
         return solve(nums,0,0,0);
     }
 };
