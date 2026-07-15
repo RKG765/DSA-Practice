@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1952-three-divisors](https://github.com/RKG765/DSA-Practice/tree/master/1952-three-divisors) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/RKG765/DSA-Practice/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/RKG765/DSA-Practice/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3700-number-of-zigzag-arrays-ii](https://github.com/RKG765/DSA-Practice/tree/master/3700-number-of-zigzag-arrays-ii) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/RKG765/DSA-Practice/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/RKG765/DSA-Practice/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
@@ -97,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1952-three-divisors](https://github.com/RKG765/DSA-Practice/tree/master/1952-three-divisors) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/RKG765/DSA-Practice/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/RKG765/DSA-Practice/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Breadth-First Search
 |  |
 | ------- |
