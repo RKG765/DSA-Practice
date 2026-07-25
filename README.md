@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/RKG765/DSA-Practice/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/RKG765/DSA-Practice/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2383-minimum-hours-of-training-to-win-a-competition](https://github.com/RKG765/DSA-Practice/tree/master/2383-minimum-hours-of-training-to-win-a-competition) |
+| [2540-minimum-common-value](https://github.com/RKG765/DSA-Practice/tree/master/2540-minimum-common-value) |
 | [2615-sum-of-distances](https://github.com/RKG765/DSA-Practice/tree/master/2615-sum-of-distances) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/RKG765/DSA-Practice/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/RKG765/DSA-Practice/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
@@ -66,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1331-rank-transform-of-an-array](https://github.com/RKG765/DSA-Practice/tree/master/1331-rank-transform-of-an-array) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/RKG765/DSA-Practice/tree/master/1358-number-of-substrings-containing-all-three-characters) |
+| [2540-minimum-common-value](https://github.com/RKG765/DSA-Practice/tree/master/2540-minimum-common-value) |
 | [2615-sum-of-distances](https://github.com/RKG765/DSA-Practice/tree/master/2615-sum-of-distances) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/RKG765/DSA-Practice/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3312-sorted-gcd-pair-queries](https://github.com/RKG765/DSA-Practice/tree/master/3312-sorted-gcd-pair-queries) |
@@ -179,6 +181,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [2540-minimum-common-value](https://github.com/RKG765/DSA-Practice/tree/master/2540-minimum-common-value) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/RKG765/DSA-Practice/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3312-sorted-gcd-pair-queries](https://github.com/RKG765/DSA-Practice/tree/master/3312-sorted-gcd-pair-queries) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/RKG765/DSA-Practice/tree/master/3501-maximize-active-section-with-trade-ii) |
@@ -204,6 +207,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [2540-minimum-common-value](https://github.com/RKG765/DSA-Practice/tree/master/2540-minimum-common-value) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/RKG765/DSA-Practice/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/RKG765/DSA-Practice/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Bit Manipulation
