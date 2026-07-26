@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0628-maximum-product-of-three-numbers](https://github.com/RKG765/DSA-Practice/tree/master/0628-maximum-product-of-three-numbers) |
 | [1952-three-divisors](https://github.com/RKG765/DSA-Practice/tree/master/1952-three-divisors) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/RKG765/DSA-Practice/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3312-sorted-gcd-pair-queries](https://github.com/RKG765/DSA-Practice/tree/master/3312-sorted-gcd-pair-queries) |
@@ -39,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0039-combination-sum](https://github.com/RKG765/DSA-Practice/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/RKG765/DSA-Practice/tree/master/0040-combination-sum-ii) |
+| [0628-maximum-product-of-three-numbers](https://github.com/RKG765/DSA-Practice/tree/master/0628-maximum-product-of-three-numbers) |
 | [0990-satisfiability-of-equality-equations](https://github.com/RKG765/DSA-Practice/tree/master/0990-satisfiability-of-equality-equations) |
 | [1260-shift-2d-grid](https://github.com/RKG765/DSA-Practice/tree/master/1260-shift-2d-grid) |
 | [1288-remove-covered-intervals](https://github.com/RKG765/DSA-Practice/tree/master/1288-remove-covered-intervals) |
@@ -110,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0628-maximum-product-of-three-numbers](https://github.com/RKG765/DSA-Practice/tree/master/0628-maximum-product-of-three-numbers) |
 | [1288-remove-covered-intervals](https://github.com/RKG765/DSA-Practice/tree/master/1288-remove-covered-intervals) |
 | [1331-rank-transform-of-an-array](https://github.com/RKG765/DSA-Practice/tree/master/1331-rank-transform-of-an-array) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/RKG765/DSA-Practice/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
