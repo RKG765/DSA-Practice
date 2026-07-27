@@ -38,8 +38,6 @@ public:
         for(auto &x:connections){
             int a = x[0];
             int b = x[1];
-            int parent_a = find(a); 
-            int parent_b = find(b);
             Union(a,b,component);
         }
         return component-1;
