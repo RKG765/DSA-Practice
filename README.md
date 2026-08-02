@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0039-combination-sum](https://github.com/RKG765/DSA-Practice/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/RKG765/DSA-Practice/tree/master/0040-combination-sum-ii) |
+| [0079-word-search](https://github.com/RKG765/DSA-Practice/tree/master/0079-word-search) |
 | [0486-predict-the-winner](https://github.com/RKG765/DSA-Practice/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/RKG765/DSA-Practice/tree/master/0628-maximum-product-of-three-numbers) |
 | [0877-stone-game](https://github.com/RKG765/DSA-Practice/tree/master/0877-stone-game) |
@@ -142,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0079-word-search](https://github.com/RKG765/DSA-Practice/tree/master/0079-word-search) |
 | [0316-remove-duplicate-letters](https://github.com/RKG765/DSA-Practice/tree/master/0316-remove-duplicate-letters) |
 | [0990-satisfiability-of-equality-equations](https://github.com/RKG765/DSA-Practice/tree/master/0990-satisfiability-of-equality-equations) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/RKG765/DSA-Practice/tree/master/1081-smallest-subsequence-of-distinct-characters) |
@@ -203,6 +205,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0079-word-search](https://github.com/RKG765/DSA-Practice/tree/master/0079-word-search) |
 | [1260-shift-2d-grid](https://github.com/RKG765/DSA-Practice/tree/master/1260-shift-2d-grid) |
 | [1301-number-of-paths-with-max-score](https://github.com/RKG765/DSA-Practice/tree/master/1301-number-of-paths-with-max-score) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/RKG765/DSA-Practice/tree/master/2812-find-the-safest-path-in-a-grid) |
@@ -234,6 +237,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0079-word-search](https://github.com/RKG765/DSA-Practice/tree/master/0079-word-search) |
 | [0207-course-schedule](https://github.com/RKG765/DSA-Practice/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/RKG765/DSA-Practice/tree/master/0210-course-schedule-ii) |
 | [0547-number-of-provinces](https://github.com/RKG765/DSA-Practice/tree/master/0547-number-of-provinces) |
@@ -284,6 +288,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0039-combination-sum](https://github.com/RKG765/DSA-Practice/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/RKG765/DSA-Practice/tree/master/0040-combination-sum-ii) |
+| [0079-word-search](https://github.com/RKG765/DSA-Practice/tree/master/0079-word-search) |
 ## Counting Sort
 |  |
 | ------- |
