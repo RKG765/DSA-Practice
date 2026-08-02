@@ -1,6 +1,6 @@
 class Solution {
 public:
-    vector<vector<int>>dirs = {{1,0},{0,1}};
+    // vector<vector<int>>dirs = {{1,0},{0,1}};
     vector<vector<int>>mem;
     int solve(int i,int j,int m,int n){
         if(i>=m || j>=n) return 0;
