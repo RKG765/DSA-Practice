@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0062-unique-paths](https://github.com/RKG765/DSA-Practice/tree/master/0062-unique-paths) |
 | [0486-predict-the-winner](https://github.com/RKG765/DSA-Practice/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/RKG765/DSA-Practice/tree/master/0877-stone-game) |
 | [1301-number-of-paths-with-max-score](https://github.com/RKG765/DSA-Practice/tree/master/1301-number-of-paths-with-max-score) |
@@ -24,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0062-unique-paths](https://github.com/RKG765/DSA-Practice/tree/master/0062-unique-paths) |
 | [0486-predict-the-winner](https://github.com/RKG765/DSA-Practice/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/RKG765/DSA-Practice/tree/master/0628-maximum-product-of-three-numbers) |
 | [0877-stone-game](https://github.com/RKG765/DSA-Practice/tree/master/0877-stone-game) |
@@ -271,6 +273,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Combinatorics
 |  |
 | ------- |
+| [0062-unique-paths](https://github.com/RKG765/DSA-Practice/tree/master/0062-unique-paths) |
 | [3312-sorted-gcd-pair-queries](https://github.com/RKG765/DSA-Practice/tree/master/3312-sorted-gcd-pair-queries) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/RKG765/DSA-Practice/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 ## Stack
