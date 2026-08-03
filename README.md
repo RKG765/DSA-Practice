@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0015-3sum](https://github.com/RKG765/DSA-Practice/tree/master/0015-3sum) |
 | [0039-combination-sum](https://github.com/RKG765/DSA-Practice/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/RKG765/DSA-Practice/tree/master/0040-combination-sum-ii) |
 | [0063-unique-paths-ii](https://github.com/RKG765/DSA-Practice/tree/master/0063-unique-paths-ii) |
@@ -137,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0015-3sum](https://github.com/RKG765/DSA-Practice/tree/master/0015-3sum) |
 | [0628-maximum-product-of-three-numbers](https://github.com/RKG765/DSA-Practice/tree/master/0628-maximum-product-of-three-numbers) |
 | [1288-remove-covered-intervals](https://github.com/RKG765/DSA-Practice/tree/master/1288-remove-covered-intervals) |
 | [1331-rank-transform-of-an-array](https://github.com/RKG765/DSA-Practice/tree/master/1331-rank-transform-of-an-array) |
@@ -256,6 +258,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0015-3sum](https://github.com/RKG765/DSA-Practice/tree/master/0015-3sum) |
 | [2540-minimum-common-value](https://github.com/RKG765/DSA-Practice/tree/master/2540-minimum-common-value) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/RKG765/DSA-Practice/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/RKG765/DSA-Practice/tree/master/3867-sum-of-gcd-of-formed-pairs) |
