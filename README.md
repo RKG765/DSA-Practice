@@ -185,6 +185,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Breadth-First Search
 |  |
 | ------- |
+| [0199-binary-tree-right-side-view](https://github.com/RKG765/DSA-Practice/tree/master/0199-binary-tree-right-side-view) |
 | [0207-course-schedule](https://github.com/RKG765/DSA-Practice/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/RKG765/DSA-Practice/tree/master/0210-course-schedule-ii) |
 | [0547-number-of-provinces](https://github.com/RKG765/DSA-Practice/tree/master/0547-number-of-provinces) |
@@ -251,6 +252,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0079-word-search](https://github.com/RKG765/DSA-Practice/tree/master/0079-word-search) |
+| [0199-binary-tree-right-side-view](https://github.com/RKG765/DSA-Practice/tree/master/0199-binary-tree-right-side-view) |
 | [0207-course-schedule](https://github.com/RKG765/DSA-Practice/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/RKG765/DSA-Practice/tree/master/0210-course-schedule-ii) |
 | [0547-number-of-provinces](https://github.com/RKG765/DSA-Practice/tree/master/0547-number-of-provinces) |
@@ -326,4 +328,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1406-stone-game-iii](https://github.com/RKG765/DSA-Practice/tree/master/1406-stone-game-iii) |
+## Tree
+|  |
+| ------- |
+| [0199-binary-tree-right-side-view](https://github.com/RKG765/DSA-Practice/tree/master/0199-binary-tree-right-side-view) |
+## Binary Tree
+|  |
+| ------- |
+| [0199-binary-tree-right-side-view](https://github.com/RKG765/DSA-Practice/tree/master/0199-binary-tree-right-side-view) |
 <!---LeetCode Topics End-->
