@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0062-unique-paths](https://github.com/RKG765/DSA-Practice/tree/master/0062-unique-paths) |
 | [0486-predict-the-winner](https://github.com/RKG765/DSA-Practice/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/RKG765/DSA-Practice/tree/master/0628-maximum-product-of-three-numbers) |
+| [0670-maximum-swap](https://github.com/RKG765/DSA-Practice/tree/master/0670-maximum-swap) |
 | [0877-stone-game](https://github.com/RKG765/DSA-Practice/tree/master/0877-stone-game) |
 | [1406-stone-game-iii](https://github.com/RKG765/DSA-Practice/tree/master/1406-stone-game-iii) |
 | [1952-three-divisors](https://github.com/RKG765/DSA-Practice/tree/master/1952-three-divisors) |
@@ -141,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0316-remove-duplicate-letters](https://github.com/RKG765/DSA-Practice/tree/master/0316-remove-duplicate-letters) |
+| [0670-maximum-swap](https://github.com/RKG765/DSA-Practice/tree/master/0670-maximum-swap) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/RKG765/DSA-Practice/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/RKG765/DSA-Practice/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [2383-minimum-hours-of-training-to-win-a-competition](https://github.com/RKG765/DSA-Practice/tree/master/2383-minimum-hours-of-training-to-win-a-competition) |
