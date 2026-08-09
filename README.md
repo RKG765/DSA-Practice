@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0063-unique-paths-ii](https://github.com/RKG765/DSA-Practice/tree/master/0063-unique-paths-ii) |
 | [0486-predict-the-winner](https://github.com/RKG765/DSA-Practice/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/RKG765/DSA-Practice/tree/master/0877-stone-game) |
+| [1140-stone-game-ii](https://github.com/RKG765/DSA-Practice/tree/master/1140-stone-game-ii) |
 | [1301-number-of-paths-with-max-score](https://github.com/RKG765/DSA-Practice/tree/master/1301-number-of-paths-with-max-score) |
 | [1406-stone-game-iii](https://github.com/RKG765/DSA-Practice/tree/master/1406-stone-game-iii) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/RKG765/DSA-Practice/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
@@ -20,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [1140-stone-game-ii](https://github.com/RKG765/DSA-Practice/tree/master/1140-stone-game-ii) |
 | [2615-sum-of-distances](https://github.com/RKG765/DSA-Practice/tree/master/2615-sum-of-distances) |
 | [3312-sorted-gcd-pair-queries](https://github.com/RKG765/DSA-Practice/tree/master/3312-sorted-gcd-pair-queries) |
 | [3699-number-of-zigzag-arrays-i](https://github.com/RKG765/DSA-Practice/tree/master/3699-number-of-zigzag-arrays-i) |
@@ -33,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/RKG765/DSA-Practice/tree/master/0628-maximum-product-of-three-numbers) |
 | [0670-maximum-swap](https://github.com/RKG765/DSA-Practice/tree/master/0670-maximum-swap) |
 | [0877-stone-game](https://github.com/RKG765/DSA-Practice/tree/master/0877-stone-game) |
+| [1140-stone-game-ii](https://github.com/RKG765/DSA-Practice/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/RKG765/DSA-Practice/tree/master/1406-stone-game-iii) |
 | [1952-three-divisors](https://github.com/RKG765/DSA-Practice/tree/master/1952-three-divisors) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/RKG765/DSA-Practice/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -66,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/RKG765/DSA-Practice/tree/master/0628-maximum-product-of-three-numbers) |
 | [0877-stone-game](https://github.com/RKG765/DSA-Practice/tree/master/0877-stone-game) |
 | [0990-satisfiability-of-equality-equations](https://github.com/RKG765/DSA-Practice/tree/master/0990-satisfiability-of-equality-equations) |
+| [1140-stone-game-ii](https://github.com/RKG765/DSA-Practice/tree/master/1140-stone-game-ii) |
 | [1260-shift-2d-grid](https://github.com/RKG765/DSA-Practice/tree/master/1260-shift-2d-grid) |
 | [1288-remove-covered-intervals](https://github.com/RKG765/DSA-Practice/tree/master/1288-remove-covered-intervals) |
 | [1301-number-of-paths-with-max-score](https://github.com/RKG765/DSA-Practice/tree/master/1301-number-of-paths-with-max-score) |
@@ -353,14 +357,17 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0486-predict-the-winner](https://github.com/RKG765/DSA-Practice/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/RKG765/DSA-Practice/tree/master/0877-stone-game) |
+| [1140-stone-game-ii](https://github.com/RKG765/DSA-Practice/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/RKG765/DSA-Practice/tree/master/1406-stone-game-iii) |
 ## Minimax
 |  |
 | ------- |
+| [1140-stone-game-ii](https://github.com/RKG765/DSA-Practice/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/RKG765/DSA-Practice/tree/master/1406-stone-game-iii) |
 ## Zero-Sum Game
 |  |
 | ------- |
+| [1140-stone-game-ii](https://github.com/RKG765/DSA-Practice/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/RKG765/DSA-Practice/tree/master/1406-stone-game-iii) |
 ## Tree
 |  |
