@@ -4,24 +4,24 @@ public:
         int preSeq = nums[0];
         int n = nums.size();
 
-        for(int i = 1;i<n;i++){
-            if(nums[i]==(nums[i-1]+1)){
+        for (int i = 1; i < n; i++) {
+            if (nums[i] == (nums[i - 1] + 1)) {
                 preSeq += nums[i];
-            }
-            else break;
+            } else
+                break;
         }
-        cout<<"Prefix Sum: "<<preSeq<<endl;
+        cout << "Prefix Sum: " << preSeq << endl;
 
-        unordered_set<int>s;
+        unordered_set<int> s;
 
-        for(int i = 0;i<n;i++){
+        for (int i = 0; i < n; i++) {
             s.insert(nums[i]);
         }
-        for(int x:s){
-            cout<<x<<endl;
+        for (int x : s) {
+            cout << x << endl;
         }
 
-        while(s.count(preSeq)){
+        while (s.count(preSeq)) {
             preSeq++;
         }
         return preSeq;
