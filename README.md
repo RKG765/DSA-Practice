@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0238-product-of-array-except-self](https://github.com/RKG765/DSA-Practice/tree/master/0238-product-of-array-except-self) |
 | [1140-stone-game-ii](https://github.com/RKG765/DSA-Practice/tree/master/1140-stone-game-ii) |
 | [2615-sum-of-distances](https://github.com/RKG765/DSA-Practice/tree/master/2615-sum-of-distances) |
 | [3312-sorted-gcd-pair-queries](https://github.com/RKG765/DSA-Practice/tree/master/3312-sorted-gcd-pair-queries) |
@@ -67,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/RKG765/DSA-Practice/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/RKG765/DSA-Practice/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/RKG765/DSA-Practice/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0238-product-of-array-except-self](https://github.com/RKG765/DSA-Practice/tree/master/0238-product-of-array-except-self) |
 | [0486-predict-the-winner](https://github.com/RKG765/DSA-Practice/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/RKG765/DSA-Practice/tree/master/0628-maximum-product-of-three-numbers) |
 | [0877-stone-game](https://github.com/RKG765/DSA-Practice/tree/master/0877-stone-game) |
